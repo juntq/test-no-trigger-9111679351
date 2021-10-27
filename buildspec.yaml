@@ -4,3 +4,4 @@ phases:
     commands:
       - echo "first test"
       - echo "test auto trigger"
+      - ls
