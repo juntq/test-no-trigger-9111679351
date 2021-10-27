@@ -3,3 +3,4 @@ phases:
   build:
     commands:
       - echo "first test"
+      - echo "test auto trigger"
